@@ -1,0 +1,11 @@
+{
+  "name": "auditagent-targhi-marketplace",
+  "owner": {"name": "Othmane Targhi"},
+  "plugins": [
+    {
+      "name": "auditagent-targhi",
+      "source": "./plugins/auditagent-targhi",
+      "description": "Evidence-based project audits and approval-scoped remediation."
+    }
+  ]
+}

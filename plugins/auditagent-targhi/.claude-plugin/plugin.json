@@ -1,0 +1,8 @@
+{
+  "name": "auditagent-targhi",
+  "version": "0.1.0",
+  "description": "Audit web, mobile, and SaaS projects; propose evidence-based phases; verify approved changes.",
+  "author": {"name": "Othmane Targhi"},
+  "license": "MIT",
+  "keywords": ["audit", "security", "saas", "verification", "approval"]
+}
